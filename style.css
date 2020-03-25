@@ -1,0 +1,70 @@
+header {
+    padding: 15px;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+}
+
+
+.profile {
+    padding-top: 48px;
+}
+
+.profile_face img {
+    width: 100%;
+}
+
+.profile_info {
+    margin-top: 36px;
+    padding: 36px;
+}
+
+.profile_info-box {
+    padding: 24px;
+}
+
+
+.work {
+    padding-top: 48px;
+}
+
+.work span {
+    display: inline-block;
+    width: 7em;
+    font-weight: bold;
+}
+
+
+.develop {
+    padding-top: 48px;
+}
+
+.develop .col-lg-5 {
+    margin: 24px;
+    padding: 24px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.develop-title {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.develop-skill {
+    margin-top: 12px;
+}
+
+.develop-img img {
+    width: 100%;
+    margin-top: 24px;
+}
+
+.develop iframe {
+    margin-top: 24px;
+    width: 100%;
+}
+
+.reason {
+    padding-top: 48px;
+    margin-bottom: 96px;
+}
